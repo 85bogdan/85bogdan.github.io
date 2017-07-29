@@ -1,5 +1,9 @@
 .box {
   min-height: 150px;
   box-sizing: border-box; }
+  .box h2 {
+    min-height: 30px; }
+  .box h3 {
+    min-height: 15px; }
 
 /*# sourceMappingURL=style.css.map */
